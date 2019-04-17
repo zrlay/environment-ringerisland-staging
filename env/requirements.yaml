@@ -10,3 +10,6 @@ dependencies:
 - name: python-test
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: wkpython
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 5.0.154
